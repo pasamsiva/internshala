@@ -343,9 +343,9 @@ color: #263238;
 }
 #ft1{
 position: absolute;
-width: 300px;
+width: 350px;
 height: 21px;
-left: 1px;
+left: 0px;
 top: 94px;
 
 font-family: 'Roboto';
