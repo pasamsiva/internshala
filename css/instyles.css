@@ -291,7 +291,7 @@ color: #30444E;
 #footer{
 box-sizing: border-box;
 
-position: absolute;
+position: relative;
 width: 1126px;
 height: 188px;
 left: 170px;
