@@ -291,11 +291,11 @@ color: #30444E;
 #footer{
 box-sizing: border-box;
 
-position: relative;
+position: absolute;
 width: 1126px;
 height: 188px;
-left: 170px;
-top: 2265px;
+left: 174px;
+top: 2247px;
 
 background: #FFFFFF;
 }
